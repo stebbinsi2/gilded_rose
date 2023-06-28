@@ -1,8 +1,8 @@
-This Kata comes directly from: https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/main
-
 ======================================
 Gilded Rose Requirements Specification
 ======================================
+
+This Kata comes directly from: https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/main
 
 Hi and welcome to team Gilded Rose. As you know, we are a small inn with a prime location in a
 prominent city ran by a friendly innkeeper named Allison. We also buy and sell only the finest goods.
