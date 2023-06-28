@@ -1,3 +1,5 @@
+This Kata comes directly from: https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/main
+
 ======================================
 Gilded Rose Requirements Specification
 ======================================
